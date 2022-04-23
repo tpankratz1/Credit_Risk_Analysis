@@ -82,7 +82,6 @@ Using the credit card credit dataset from LendingClub, the data was oversampled 
         ![Easy Ensemble AdaBoost Classifier](Resources/6_Classification_Report.png)
 
 ## Summary
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
 After analyzing the Balanced Accuracy, Precision and Recall scores for all six models, it appears that the last two models, Balanced Random Forest Classifier and Easy Ensemble Classifier, performed better than the other four models. With Balanced Accuracy Scores of 78% and 93%, respectively, it appears the approach of these models to reduce bias did a better job at predicting credit risk. 
 
